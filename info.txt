@@ -1,0 +1,20 @@
+Pour commencer un projet react:
+
+
+npm install --save create-react-app
+npx create-react-app <my-app>
+cd <my-app>
+npm start
+
+Axios:
+npm install --save axios  
+
+Routeur:
+npm install --save react-router-dom
+
+style:
+npm install --save @material-ui/core
+npm install --save material-ui-icons
+
+map:
+npm install --save google-map-react
